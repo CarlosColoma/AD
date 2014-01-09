@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pgeestion", "Pgeestion\Pgeestion.csproj", "{15FCD779-9132-49B7-ADD5-3463E60BBB74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15FCD779-9132-49B7-ADD5-3463E60BBB74}.Debug|x86.ActiveCfg = Debug|x86
+		{15FCD779-9132-49B7-ADD5-3463E60BBB74}.Debug|x86.Build.0 = Debug|x86
+		{15FCD779-9132-49B7-ADD5-3463E60BBB74}.Release|x86.ActiveCfg = Release|x86
+		{15FCD779-9132-49B7-ADD5-3463E60BBB74}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Pgeestion\Pgeestion.csproj
+	EndGlobalSection
+EndGlobal
