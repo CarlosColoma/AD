@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PSerpisAd/TreeViewHelper.cs">
+    <Files>
+      <File FileName="PSerpisAd/ModelHelper.cs" Line="35" Column="77" />
+      <File FileName="PSerpisAd/KeyAttribute.cs" Line="1" Column="1" />
+      <File FileName="PSerpisAd/IEntityListView.cs" Line="1" Column="1" />
+      <File FileName="PSerpisAd/DbCommandUtil.cs" Line="16" Column="1" />
+      <File FileName="PSerpisAd/ComboBoxHelper.cs" Line="1" Column="1" />
+      <File FileName="PSerpisAd/EntityListView.cs" Line="1" Column="1" />
+      <File FileName="PSerpisAd/FieldAttribute.cs" Line="1" Column="1" />
+      <File FileName="PSerpisAdTests/ModelInfoTest.cs" Line="36" Column="9" />
+      <File FileName="PSerpisAd/ModelInfo.cs" Line="13" Column="24" />
+      <File FileName="PSerpisAd/ModelInfoStore.cs" Line="18" Column="2" />
+      <File FileName="PSerpisAdTests/ModelHelperTest.cs" Line="1" Column="1" />
+      <File FileName="PSerpisAd/TreeViewHelper.cs" Line="68" Column="3" />
+      <File FileName="PSerpisAd/UiManagerHelper.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
